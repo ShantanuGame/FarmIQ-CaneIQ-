@@ -2,6 +2,8 @@
 
 # 🌾 FarmIQ
 ### AI-Based Precision Farming System
+### In collaboration with MPKV, Rahuri 
+### one of the top indian agricutural university
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
